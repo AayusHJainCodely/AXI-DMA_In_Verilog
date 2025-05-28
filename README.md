@@ -86,6 +86,4 @@ If you find bugs or need AXI full burst support, feel free to open an issue or s
 
 ---
 
-## 📜 License
 
-MIT License — do whatever you want, but don’t blame me if it breaks. :)
